@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ba99152-467f-4235-94e1-769b8984c003" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/ScrapyProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImageSpider/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImagesRename/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angel/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angel/.idea/angel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angel/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angel/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angel/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angel/angel/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angel/angel/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angel/angel/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angel/angel/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angel/angel/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angel/angel/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angel/angel/spiders/angel_spbeen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angel/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/douban.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/douban/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/douban/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/douban/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/douban/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/douban/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/douban/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/douban/spiders/douban_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AoiSolas/.idea/AoiSolas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../AoiSolas/.idea/AoiSolas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AoiSolas/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AoiSolas/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AoiSolas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AoiSolas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AoiSolas/AoiSolas/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AoiSolas/AoiSolas/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AoiSolas/AoiSolas/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AoiSolas/AoiSolas/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AoiSolas/AoiSolas/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AoiSolas/AoiSolas/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AoiSolas/AoiSolas/spiders/AoiSolaSpider.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AoiSolas/AoiSolas/spiders/AoiSolaSpider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImageSpider/.idea/ImageSpider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ImageSpider/.idea/ImageSpider.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImageSpider/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ImageSpider/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImageSpider/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ImageSpider/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImageSpider/ImageSpider/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ImageSpider/ImageSpider/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImageSpider/ImageSpider/spiders/ImgSpider.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ImageSpider/ImageSpider/spiders/ImgSpider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImagesRename/.idea/ImagesRename.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ImagesRename/.idea/ImagesRename.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImagesRename/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ImagesRename/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImagesRename/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ImagesRename/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImagesRename/ImagesRename/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ImagesRename/ImagesRename/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImagesRename/ImagesRename/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ImagesRename/ImagesRename/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImagesRename/ImagesRename/spiders/ImgsRename.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ImagesRename/ImagesRename/spiders/ImgsRename.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Qd0paEu4rhq2076QdLMLG1i8Au" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AoiSolas" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ba99152-467f-4235-94e1-769b8984c003" name="Default Changelist" comment="" />
+      <created>1568085349455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568085349455</updated>
+      <workItem from="1568085357054" duration="9370000" />
+      <workItem from="1568125568009" duration="2185000" />
+      <workItem from="1568166184519" duration="2527000" />
+      <workItem from="1568184318189" duration="69000" />
+      <workItem from="1568450540343" duration="602000" />
+      <workItem from="1568458392519" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
