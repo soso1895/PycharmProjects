@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="538acb67-a5e5-4e1d-bb7b-670f54e8a39e" name="Default Changelist" comment="" />
+    <list default="true" id="e57cb1e1-256d-4728-b80c-2e7e66cf187f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/static/cms/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/static/front/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/book.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/company.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/school.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorial/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/book_manager/book_manager/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/book_manager/book_manager/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/book_manager/book_manager/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/book_manager/book_manager/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/book_manager/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/db_demo/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/db_demo/db_demo/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/db_demo/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Django.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cms/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/cms/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/front/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/front/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorial/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tutorial/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorial/.idea/tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../tutorial/.idea/tutorial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tutorial/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorial/tutorial/tutorial/spiders/imgSpider.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tutorial/tutorial/tutorial/spiders/imgSpider.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,14 +52,37 @@
       <list>
         <option value="Python Script" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1QfuxVFJBfev9Z68Me4a43DiST3" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RUjN43SDEcHv7uXFyPLbvwbUV1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/ScrapyProject/AoiSolas" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../scrapy_learn" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/front/static/front" />
+      <recent name="$PROJECT_DIR$/cms/static/cms" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -48,7 +107,7 @@
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="launchJavascriptDebuger" value="false" />
@@ -68,16 +127,38 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="538acb67-a5e5-4e1d-bb7b-670f54e8a39e" name="Default Changelist" comment="" />
-      <created>1568174217799</created>
+      <changelist id="e57cb1e1-256d-4728-b80c-2e7e66cf187f" name="Default Changelist" comment="" />
+      <created>1569728525236</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568174217799</updated>
-      <workItem from="1568174251043" duration="10887000" />
+      <updated>1569728525236</updated>
+      <workItem from="1569728528519" duration="800000" />
+      <workItem from="1569729353492" duration="104000" />
+      <workItem from="1569729950765" duration="141000" />
+      <workItem from="1569731038549" duration="15788000" />
+      <workItem from="1569981055182" duration="721000" />
+      <workItem from="1569983774336" duration="12015000" />
+      <workItem from="1570013683100" duration="683000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

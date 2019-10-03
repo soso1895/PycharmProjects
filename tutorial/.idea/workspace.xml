@@ -1,17 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f178944-a31d-4c04-bd69-912b6542d3e5" name="Default Changelist" comment="" />
+    <list default="true" id="0f178944-a31d-4c04-bd69-912b6542d3e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/cms/static/cms/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/front/static/front/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/static/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/templates/book.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/templates/company.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/templates/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django/templates/school.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/book_manager/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/book_manager/.idea/book_manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/book_manager/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/book_manager/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/book_manager/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/book_manager/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/book_manager/book_manager/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/book_manager/book_manager/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/book_manager/book_manager/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/book_manager/book_manager/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/book_manager/front/static/front/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/book_manager/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/book_manager/templates/add_book.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/book_manager/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/book_manager/templates/book_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/book_manager/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/db_demo/.idea/db_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/db_demo/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/db_demo/db_demo/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/db_demo/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django/.idea/Django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/.idea/Django.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django/Django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/Django/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django/Django/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/Django/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django/book/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/book/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django/cms/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/cms/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django/cms/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/cms/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django/front/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/front/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django/front/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/front/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angel/.idea/angel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../angel/.idea/angel.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angel/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../angel/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo" beforeDir="false" afterPath="$PROJECT_DIR$/../demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrapy_learn" beforeDir="false" afterPath="$PROJECT_DIR$/../scrapy_learn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tutorial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1QgSyFBWZguPwWS7GWfjymB89aV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/tutorial" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,10 +94,28 @@
       <updated>1568190998447</updated>
       <workItem from="1568190999503" duration="354000" />
       <workItem from="1568256414564" duration="551000" />
+      <workItem from="1569770512649" duration="2951000" />
+      <workItem from="1569981038577" duration="12000" />
+      <workItem from="1570070353332" duration="2033000" />
+      <workItem from="1570073489662" duration="1314000" />
+      <workItem from="1570076347462" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

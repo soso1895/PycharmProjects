@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0f144b0-7edf-40f2-b299-e37f0effdc98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/PycharmProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/cms/static/cms/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/front/static/front/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/static/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/templates/book.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/templates/company.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/templates/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/templates/school.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tutorial/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django/.idea/Django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/.idea/Django.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django/Django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/Django/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django/Django/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/Django/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django/book/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/book/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django/cms/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/cms/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django/cms/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/cms/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django/front/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/front/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django/front/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/front/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tutorial/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../tutorial/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tutorial/.idea/tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../tutorial/.idea/tutorial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../tutorial/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tutorial/tutorial/tutorial/spiders/imgSpider.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../tutorial/tutorial/tutorial/spiders/imgSpider.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1Re1RzAgS2rYPQczn5rYTkivuz9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0f144b0-7edf-40f2-b299-e37f0effdc98" name="Default Changelist" comment="" />
+      <created>1570012743227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570012743227</updated>
+      <workItem from="1570012744505" duration="137000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

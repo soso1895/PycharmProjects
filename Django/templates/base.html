@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<header>
+    <ul>
+        <li><a href="/">首页</a></li>
+        <li><a href="{% url 'front:company' %}">公司</a></li>
+        <li><a href="{% url 'front:school' %}">校园</a></li>
+        <li>{{ username }}</li>
+    </ul>
+</header>
+<div class="content">
+    {% block content %}
+        我是父模板中的代码
+    {% endblock %}
+</div>
+<footer>
+    这是footer部分
+</footer>
+</body>
+</html>

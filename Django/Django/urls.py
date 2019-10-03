@@ -15,21 +15,22 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-from book import views
+from book import views as book_views
 from django.http import HttpResponse
-from front import views
 
-def index(request):
-    return HttpResponse("shou ye")
+#
+# def index(request):
+#     return HttpResponse("tu shu shou  ye ")
 
 
 urlpatterns = [
     # path('admin/', admin.site.urls),
     # path('', index),
     # path('book/', views.book),
-    # path("book/detail/<book_id>/<category_id>", views.book_detail),
+    # path('book/detail/<book_id>/', views.book_detail),
     # path('book/author/', views.author_detail)
-    # path('', include('front.urls')),
-    # path('cms/', include('cms.urls'))
-    path('', views.index)
+    path('', include('front.urls')),
+    path('cms/', include('cms.urls')),
+    path('book/', book_views.book)
+
 ]
