@@ -1,0 +1,49 @@
+2001:19f0:7002:1a8:5400:02ff:fe5b:cd7b
+aN9[h,_wb#u66%Zo
+
+# START OPENVPN RULES
+# NAT table rules
+*nat
+:POSTROUTING ACCEPT [0:0] 
+# Allow traffic from OpenVPN client to wlp11s0 (change to the interface you discovered!)
+-A POSTROUTING -s 10.8.0.0/8 -o wlp11s0 -j MASQUERADE
+COMMIT
+# END OPENVPN RULES
+
+2408:8214:7221:5d70:c829:59d5:6278:ceb2/64
+
+2408:8214:7221:5d70:413b:12fb:a4a8:8d96/64
+
+{
+  "settings":{
+    "clients":[
+      {
+        "id":"64e777fa-0a4c-46d0-87f8-6d6f138bdbe7",
+        "alterId":64
+      }
+    ]
+  },
+  "protocol":"vmess",
+  "port":80,
+  "streamSettings":{
+    "wsSettings":{
+      "path":"/",
+      "headers":{}
+    },
+    "network":"ws"
+  }
+}
+
+
+wget https://install.direct/go.sh
+
+bash go.sh
+
+systemctl start v2ray
+
+tori.ns.cloudflare.com
+west.ns.cloudflare.com
+
+net.ipv6.conf.all.accept_ra = 2
+net.core.default_qdisc = fq
+net.ipv4.tcp_congestion_control = bbr

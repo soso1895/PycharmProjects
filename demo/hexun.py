@@ -14,7 +14,7 @@ import time
 #     request.urlretrieve(url, filename=filename)
 
 
-def get_page(url="http://futures.hexun.com/2019-09-30/198735397_1.html"):
+def get_page(url="http://futures.hexun.com/2019-10-09/198804415_1.html"):
 
 
     headers = {
@@ -25,18 +25,32 @@ def get_page(url="http://futures.hexun.com/2019-09-30/198735397_1.html"):
         response = requests.get(url, headers=headers)
         content = response.content
         new_code = etree.HTML(content)
-        img_url = new_code.xpath('//td[@valign="middle"]/img/@src')[0]
-        img_name = new_code.xpath('//td[@valign="middle"]/img/@alt')[0]
-        print(img_url, img_name)
-        split_list = img_url.split('/')
-        filename = img_name + split_list.pop()
-        print(filename)
-        path = os.path.join('images', filename)
-        urllib.request.urlretrieve(img_url, filename=path)
-        next_page = new_code.xpath('//a[@class="pic_next"]/@href')[0]
-        print(next_page)
-        url = next_page
-        time.sleep(0.5)
+        img_time = new_code.xpath('//div[@id="photoTime"]/text()')[0]
+        img_time = int(img_time[13:-6])
+
+        now_day = time.localtime().tm_mday
+        # now_day = 30
+
+        if now_day == img_time:
+
+            img_url = new_code.xpath('//td[@valign="middle"]/img/@src')[0]
+            img_name = new_code.xpath('//td[@valign="middle"]/img/@alt')[0]
+            print(img_url, img_name)
+            split_list = img_url.split('/')
+            filename = img_name + split_list.pop()
+            print(filename)
+            # path = os.path.join('images', filename)
+            path = '/home/ss/images/' + filename
+            print(path)
+            # break
+            # urllib.request.urlretrieve(img_url, filename=path)
+            urllib.request.urlretrieve(img_url, filename=path)
+            next_page = new_code.xpath('//a[@class="pic_next"]/@href')[0]
+            print(next_page)
+            url = next_page
+            time.sleep(0.5)
+        else:
+            break
         # return url
 
 

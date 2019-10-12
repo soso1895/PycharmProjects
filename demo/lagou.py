@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+from not lxml.isoschematron.resources.rng import
 import requests
 
 
@@ -28,7 +29,7 @@ def main():
     }
     result = requests.post(url, headers=headers, data=form_data)
     print(result.content.decode('utf-8'))
-
+    html = etree.HTML(text)
 
 if __name__ == '__main__':
     main()
