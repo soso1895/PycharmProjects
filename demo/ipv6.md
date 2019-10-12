@@ -1,13 +1,8 @@
 [TOC]
-2001:19f0:7002:1a8:5400:02ff:fe5b:cd7b
-2408:8214:7221:5d70:c829:59d5:6278:ceb2/64
+---
 
-2408:8214:7221:5d70:413b:12fb:a4a8:8d96/64
-
-
-###############################################################
 ## ufw 转发配置修改 
-    ipv6 开启转发编辑 /etc/ufw/before6.rules  ipv4 编辑/etc/ufw/before.rules 
+    ipv6 编辑 /etc/ufw/before6.rules  ipv4 编辑/etc/ufw/before.rules 
 
     #START OPENVPN RULES
     #NAT table rules
@@ -18,8 +13,7 @@
     COMMIT
     #END OPENVPN RULES
 
-#############################################################
-
+---
 ## v2ray 开启webstock 配置文件
 
     {
@@ -42,8 +36,7 @@
       }
     }
 
-############################################################################
-
+---
 ## v2ray官方脚本安装方法
 
     wget https://install.direct/go.sh
@@ -52,8 +45,7 @@
 
     systemctl start v2ray
 
-############################################################################
-
+---
 ## CDN服务商， cloudflare 的DNS
 
     tori.ns.cloudflare.com
